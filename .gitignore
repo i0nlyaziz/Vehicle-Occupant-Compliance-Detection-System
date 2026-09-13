@@ -1,0 +1,16 @@
+*.db
+*.log
+output/
+
+.idea/
+.vscode/
+
+__pycache__/
+*.pyc
+venv/
+.env
+
+*.pt
+*.pth
+*.engine
+*.h5
