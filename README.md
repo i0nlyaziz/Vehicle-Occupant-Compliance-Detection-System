@@ -104,7 +104,7 @@ Model paths and the camera index are set directly in `main.py` rather than passe
 ## Project Structure
 
 ```
-Vehicle-Compliance-Monitoring-System/
+Vehicle-Occupant-Compliance-Detection-System/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
