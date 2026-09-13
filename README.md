@@ -86,8 +86,8 @@ All three custom models are YOLO11n (fused), ~2.58M parameters, ~6.3 GFLOPs each
 ### Install
 
 ```bash
-git clone https://github.com/i0nlyaziz/Vehicle-Compliance-Monitoring-System.git
-cd Vehicle-Compliance-Monitoring-System
+git clone https://github.com/i0nlyaziz/Vehicle-Occupant-Compliance-Detection-System.git
+cd Vehicle-Occupant-Compliance-Detection-System
 pip install -r requirements.txt
 ```
 
